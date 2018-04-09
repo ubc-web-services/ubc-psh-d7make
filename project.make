@@ -112,10 +112,10 @@ projects[ubc_ckeditor_plugins][type] = "module"
 
 ; Custom Modules in Private Repo
 
-projects[ubc_accordion][download][type] = "git"
-projects[ubc_accordion][download][url] = "https://github.com/ubc-web-services/private_d7_mods.git"
-projects[ubc_accordion][subdir] = "custom"
-projects[ubc_accordion][type] = "module"
+projects[private-mod1][download][type] = "git"
+projects[private-mod1][download][url] = "https://github.com/ubc-web-services/private_d7_mods.git"
+projects[private-mod1][subdir] = "custom"
+projects[private-mod1][type] = "module"
 
 
 
