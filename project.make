@@ -82,7 +82,7 @@ projects[megatron][subdir] = "custom"
 projects[megatron][type] = "theme"
 projects[megatron][version] = "4.0"
 
-; Modules
+; Custom Modules
 
 projects[ubc_accordion][download][type] = "git"
 projects[ubc_accordion][download][url] = "https://github.com/ubc-web-services/d7-clf-Accordion.git"
@@ -114,6 +114,7 @@ projects[ubc_ckeditor_plugins][type] = "module"
 
 
 ; Libraries
+
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
 ;libraries[wvega-timepicker][download][type] = ""
@@ -156,10 +157,8 @@ projects[ubc_ckeditor_plugins][type] = "module"
 ;libraries[jquery.imgareaselect][directory_name] = "jquery.imgareaselect"
 ;libraries[jquery.imgareaselect][type] = "library"
 
-; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
-; and url is the url of the download.
-;libraries[chosen][download][type] = ""
-;libraries[chosen][download][url] = ""
-;libraries[chosen][directory_name] = "chosen"
-;libraries[chosen][type] = "library"
+libraries[chosen][download][type] = "git"
+libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
+libraries[chosen][directory_name] = "chosen"
+libraries[chosen][type] = "library"
 
