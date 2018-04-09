@@ -100,7 +100,7 @@ projects[ubc_ckeditor_accessibility][subdir] = "custom"
 projects[ubc_ckeditor_accessibility][type] = "module"
 
 projects[ubc_ckeditor_chart][download][type] = "git"
-projects[ubc_ckeditor_chart][download][url] = "https://github.com/ubc-web-"
+projects[ubc_ckeditor_chart][download][url] = "https://github.com/ubc-web-services/ubc_ckeditor_chart.git"
 projects[ubc_ckeditor_chart][subdir] = "custom"
 projects[ubc_ckeditor_chart][type] = "module"
 
