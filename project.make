@@ -150,12 +150,15 @@ projects[ubc_ckeditor_plugins][type] = "module"
 ;libraries[jquery.ui][directory_name] = "jquery.ui"
 ;libraries[jquery.ui][type] = "library"
 
-; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
-; and url is the url of the download.
-;libraries[jquery.imgareaselect][download][type] = ""
-;libraries[jquery.imgareaselect][download][url] = ""
-;libraries[jquery.imgareaselect][directory_name] = "jquery.imgareaselect"
-;libraries[jquery.imgareaselect][type] = "library"
+
+
+
+libraries[jquery.imgareaselect][download][type] = "git"
+libraries[jquery.imgareaselect][download][url] = "git@github.com:odyniec/imgareaselect.git"
+libraries[jquery.imgareaselect][directory_name] = "jquery.imgareaselect"
+libraries[jquery.imgareaselect][download][tag] = "v0.9.10"
+libraries[jquery.imgareaselect][type] = "library"
+libraries[jquery.imgareaselect[download][subtree] = "distfiles/"
 
 libraries[chosen][download][type] = "git"
 libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
