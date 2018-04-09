@@ -83,35 +83,35 @@ projects[megatron][type] = "theme"
 projects[megatron][version] = "4.0"
 
 ; Modules
-; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
-; and url is the url of the download.
-;projects[ubc_accordion][download][type] = ""
-;projects[ubc_accordion][download][url] = ""
-;projects[ubc_accordion][type] = "module"
 
-; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
-; and url is the url of the download.
-;projects[ubc_button_link][download][type] = ""
-;projects[ubc_button_link][download][url] = ""
-;projects[ubc_button_link][type] = "module"
+projects[ubc_accordion][download][type] = "git"
+projects[ubc_accordion][download][url] = "https://github.com/ubc-web-services/d7-clf-Accordion.git"
+projects[ubc_accordion][subdir] = "custom"
+projects[ubc_accordion][type] = "module"
 
-; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
-; and url is the url of the download.
-;projects[ubc_ckeditor_accessibility][download][type] = ""
-;projects[ubc_ckeditor_accessibility][download][url] = ""
-;projects[ubc_ckeditor_accessibility][type] = "module"
+projects[ubc_button_link][download][type] = "git"
+projects[ubc_button_link][download][url] = "https://github.com/ubc-web-services/d7-clf-button.git"
+projects[ubc_button_link][subdir] = "custom"
+projects[ubc_button_link][type] = "module"
 
-; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
-; and url is the url of the download.
-;projects[ubc_ckeditor_chart][download][type] = ""
-;projects[ubc_ckeditor_chart][download][url] = ""
-;projects[ubc_ckeditor_chart][type] = "module"
+projects[ubc_ckeditor_accessibility][download][type] = "git"
+projects[ubc_ckeditor_accessibility][download][url] = "https://github.com/ubc-web-services/ubc_ckeditor_accessibilty.git"
+projects[ubc_ckeditor_accessibility][subdir] = "custom"
+projects[ubc_ckeditor_accessibility][type] = "module"
 
-; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
-; and url is the url of the download.
-;projects[ubc_ckeditor_plugins][download][type] = ""
-;projects[ubc_ckeditor_plugins][download][url] = ""
-;projects[ubc_ckeditor_plugins][type] = "module"
+projects[ubc_ckeditor_chart][download][type] = "git"
+projects[ubc_ckeditor_chart][download][url] = "https://github.com/ubc-web-"
+projects[ubc_ckeditor_chart][subdir] = "custom"
+projects[ubc_ckeditor_chart][type] = "module"
+
+projects[ubc_ckeditor_plugins][download][type] = "git"
+projects[ubc_ckeditor_plugins][download][url] = "https://github.com/ubc-web-services/d7_ubc_ckeditor_plugins.git"
+projects[ubc_ckeditor_plugins][subdir] = "custom"
+projects[ubc_ckeditor_plugins][type] = "module"
+
+
+
+
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
