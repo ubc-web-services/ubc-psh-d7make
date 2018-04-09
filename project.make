@@ -154,7 +154,7 @@ projects[ubc_ckeditor_plugins][type] = "module"
 
 
 libraries[jquery.imgareaselect][download][type] = "git"
-libraries[jquery.imgareaselect][download][url] = "git@github.com:odyniec/imgareaselect.git"
+libraries[jquery.imgareaselect][download][url] = "https://github.com/odyniec/imgareaselect.git"
 libraries[jquery.imgareaselect][directory_name] = "jquery.imgareaselect"
 libraries[jquery.imgareaselect][download][tag] = "v0.9.10"
 libraries[jquery.imgareaselect][type] = "library"
