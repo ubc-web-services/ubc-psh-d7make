@@ -110,6 +110,13 @@ projects[ubc_ckeditor_plugins][subdir] = "custom"
 projects[ubc_ckeditor_plugins][type] = "module"
 
 
+; Custom Modules in Private Repo
+
+projects[ubc_accordion][download][type] = "git"
+projects[ubc_accordion][download][url] = "https://github.com/ubc-web-services/private_d7_mods.git"
+projects[ubc_accordion][subdir] = "custom"
+projects[ubc_accordion][type] = "module"
+
 
 
 
@@ -158,7 +165,6 @@ libraries[jquery.imgareaselect][download][url] = "https://github.com/odyniec/img
 libraries[jquery.imgareaselect][directory_name] = "jquery.imgareaselect"
 libraries[jquery.imgareaselect][download][tag] = "v0.9.10"
 libraries[jquery.imgareaselect][type] = "library"
-libraries[jquery.imgareaselect[download][subtree] = "distfiles/"
 
 libraries[chosen][download][type] = "git"
 libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
