@@ -10,6 +10,3 @@ projects[drupal][patch][] = "https://cgit.drupalcode.org/drupal/rawdiff/?h=7.x&i
 
 ; Drush make allows a default sub directory for all contributed projects.
 defaults[projects][subdir] = contrib
-
-; Platform indicator module.
-projects[platform][version] = 1.4
