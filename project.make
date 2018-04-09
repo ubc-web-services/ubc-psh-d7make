@@ -85,81 +85,81 @@ projects[megatron][version] = "4.0"
 ; Modules
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[ubc_accordion][download][type] = ""
-projects[ubc_accordion][download][url] = ""
-projects[ubc_accordion][type] = "module"
+;projects[ubc_accordion][download][type] = ""
+;projects[ubc_accordion][download][url] = ""
+;projects[ubc_accordion][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[ubc_button_link][download][type] = ""
-projects[ubc_button_link][download][url] = ""
-projects[ubc_button_link][type] = "module"
+;projects[ubc_button_link][download][type] = ""
+;projects[ubc_button_link][download][url] = ""
+;projects[ubc_button_link][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[ubc_ckeditor_accessibility][download][type] = ""
-projects[ubc_ckeditor_accessibility][download][url] = ""
-projects[ubc_ckeditor_accessibility][type] = "module"
+;projects[ubc_ckeditor_accessibility][download][type] = ""
+;projects[ubc_ckeditor_accessibility][download][url] = ""
+;projects[ubc_ckeditor_accessibility][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[ubc_ckeditor_chart][download][type] = ""
-projects[ubc_ckeditor_chart][download][url] = ""
-projects[ubc_ckeditor_chart][type] = "module"
+;projects[ubc_ckeditor_chart][download][type] = ""
+;projects[ubc_ckeditor_chart][download][url] = ""
+;projects[ubc_ckeditor_chart][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[ubc_ckeditor_plugins][download][type] = ""
-projects[ubc_ckeditor_plugins][download][url] = ""
-projects[ubc_ckeditor_plugins][type] = "module"
+;projects[ubc_ckeditor_plugins][download][type] = ""
+;projects[ubc_ckeditor_plugins][download][url] = ""
+;projects[ubc_ckeditor_plugins][type] = "module"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[wvega-timepicker][download][type] = ""
-libraries[wvega-timepicker][download][url] = ""
-libraries[wvega-timepicker][directory_name] = "wvega-timepicker"
-libraries[wvega-timepicker][type] = "library"
+;libraries[wvega-timepicker][download][type] = ""
+;libraries[wvega-timepicker][download][url] = ""
+;libraries[wvega-timepicker][directory_name] = "wvega-timepicker"
+;libraries[wvega-timepicker][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[jquery.imagesloaded][download][type] = ""
-libraries[jquery.imagesloaded][download][url] = ""
-libraries[jquery.imagesloaded][directory_name] = "jquery.imagesloaded"
-libraries[jquery.imagesloaded][type] = "library"
+;libraries[jquery.imagesloaded][download][type] = ""
+;libraries[jquery.imagesloaded][download][url] = ""
+;libraries[jquery.imagesloaded][directory_name] = "jquery.imagesloaded"
+;libraries[jquery.imagesloaded][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[getid3][download][type] = ""
-libraries[getid3][download][url] = ""
-libraries[getid3][directory_name] = "getid3"
-libraries[getid3][type] = "library"
+;libraries[getid3][download][type] = ""
+;libraries[getid3][download][url] = ""
+;libraries[getid3][directory_name] = "getid3"
+;libraries[getid3][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[tinymce][download][type] = ""
-libraries[tinymce][download][url] = ""
-libraries[tinymce][directory_name] = "tinymce"
-libraries[tinymce][type] = "library"
+;libraries[tinymce][download][type] = ""
+;libraries[tinymce][download][url] = ""
+;libraries[tinymce][directory_name] = "tinymce"
+;libraries[tinymce][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[jquery.ui][download][type] = ""
-libraries[jquery.ui][download][url] = ""
-libraries[jquery.ui][directory_name] = "jquery.ui"
-libraries[jquery.ui][type] = "library"
+;libraries[jquery.ui][download][type] = ""
+;libraries[jquery.ui][download][url] = ""
+;libraries[jquery.ui][directory_name] = "jquery.ui"
+;libraries[jquery.ui][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[jquery.imgareaselect][download][type] = ""
-libraries[jquery.imgareaselect][download][url] = ""
-libraries[jquery.imgareaselect][directory_name] = "jquery.imgareaselect"
-libraries[jquery.imgareaselect][type] = "library"
+;libraries[jquery.imgareaselect][download][type] = ""
+;libraries[jquery.imgareaselect][download][url] = ""
+;libraries[jquery.imgareaselect][directory_name] = "jquery.imgareaselect"
+;libraries[jquery.imgareaselect][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[chosen][download][type] = ""
-libraries[chosen][download][url] = ""
-libraries[chosen][directory_name] = "chosen"
-libraries[chosen][type] = "library"
+;libraries[chosen][download][type] = ""
+;libraries[chosen][download][url] = ""
+;libraries[chosen][directory_name] = "chosen"
+;libraries[chosen][type] = "library"
 
