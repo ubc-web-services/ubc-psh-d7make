@@ -73,6 +73,13 @@ projects[webform][version] = "4.15"
 
 projects[xmlsitemap][version] = "2.3"
 
+
+projects[civicrm][download][type] = "get"
+projects[civicrm][download][url] = "http://downloads.sourceforge.net/project/civicrm/civicrm-stable/4.6.19/civicrm-4.6.19-drupal.tar.gz"
+projects[civicrm][type] = "module"
+projects[civicrm][subdir] = "custom"
+
+
 ; Themes
 projects[adminimal_theme][version] = "1.24"
 
