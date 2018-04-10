@@ -79,7 +79,7 @@ projects[civicrm][download][url] = "https://github.com/civicrm/civicrm-core.git"
 projects[civicrm][download][tag] = "4.6.19"
 projects[civicrm][type] = "module"
 projects[civicrm][subdir] = "custom"
-
+projects[civicrm][patch][] = "https://github.com/ubc-web-services/CBM_Plugin_for_CiviCRM_4.2/blob/master/cbm_plugin_civi-4-2.patch"
 
 ; Themes
 projects[adminimal_theme][version] = "1.24"
