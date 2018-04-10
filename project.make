@@ -74,8 +74,9 @@ projects[webform][version] = "4.15"
 projects[xmlsitemap][version] = "2.3"
 
 
-projects[civicrm][download][type] = "get"
-projects[civicrm][download][url] = "http://downloads.sourceforge.net/project/civicrm/civicrm-stable/4.6.19/civicrm-4.6.19-drupal.tar.gz"
+projects[civicrm][download][type] = "git"
+projects[civicrm][download][url] = "https://github.com/civicrm/civicrm-core.git"
+projects[civicrm][download][tag] = "4.6.19"
 projects[civicrm][type] = "module"
 projects[civicrm][subdir] = "custom"
 
