@@ -9,7 +9,7 @@ projects[views_bulk_operations][version] = "3.4"
 
 projects[admin_menu][version] = "3.0-rc5"
 
-projects[admin_views][version] = "1.6"
+projects[admin_views][version] = "1.7"
 
 projects[adminimal_admin_menu][version] = "1.7"
 
